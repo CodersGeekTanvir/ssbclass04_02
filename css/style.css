@@ -29,19 +29,24 @@ nav ul{
 nav ul li a{
     text-decoration: none;
     color: #787878;
-    font-size: 24px;
+    font-size: 20px;
     text-transform: uppercase;
-    margin-left: 20px;
+    margin-left: 18px;
 }
 /*Header Ends */
 
 /*Section 1 Starts */
-.banner{
+
+/* .banner{
     background-image: url(../images/banner.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
    height: 90vh;
+}
+*/
+.banner img{
+    width: 100%;
 }
 /*Section 1 Ends */
 
